@@ -1,0 +1,1 @@
+# Analisis-dan-Prediksi-Suhu-Global-Menggunakan-ARIMA-Dan-AUTO-ARIMA
